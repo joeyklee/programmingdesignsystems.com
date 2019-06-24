@@ -44,6 +44,9 @@
   "builds": [
     {
       "format": "html"
+    },
+    {
+      "format": "pdf"
     }
   ],
   "codesplit": {
